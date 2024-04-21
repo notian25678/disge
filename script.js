@@ -1,5 +1,0 @@
-alert("This is a private website")
-console.log(292)
-console.log(299)
-console.log(470)
-console.log(3786)
