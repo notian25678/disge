@@ -1,10 +1,10 @@
-body{-webkit-touch-callout:none;background:#000000;font-family:-apple-system;}
+body{-webkit-touch-callout:none;background:#191919;font-family:-apple-system;}
 
 a{text-decoration:none;background:#0069ff;border-radius:5px;padding:5px;color:gold;}
 
 marquee{background:#00ff00;}
 
-hr.key{margin:10px;border-color:#191919;}
+hr.key{margin:10px;border-color:#323232;}
 
 details{background:#e6e6e6;color:#0069ff;border-radius:10px;}
 
