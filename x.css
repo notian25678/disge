@@ -1,4 +1,4 @@
-body{-webkit-touch-callout:none;background:#191919;font-family:-apple-system;}
+body.key{-webkit-touch-callout:none;background:#191919;font-family:-apple-system;}
 
 a{text-decoration:none;background:#0069ff;border-radius:5px;padding:5px;color:#ffffff;}
 
@@ -9,3 +9,5 @@ hr.key{margin:10px;border-color:#323232;}
 details{background:#e6e6e6;color:#0069ff;border-radius:10px;}
 
 details.key{background:#e6e6e6;color:#0069ff;border-radius:0px 0px 10px 10px;}
+
+button{background:#0069ff;border-radius:5px;padding:5px;color:#ffffff;}
