@@ -1,6 +1,6 @@
 body.key{-webkit-touch-callout:none;background:#191919;font-family:-apple-system;}
 
-a{text-decoration:none;background:#0069ff;border-radius:5px;padding:5px;color:#ffffff;}
+a.key{text-decoration:none;background:#0069ff;border-radius:5px;padding:5px;color:#ffffff;}
 
 marquee{background:#00ff00;}
 
